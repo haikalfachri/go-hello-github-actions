@@ -1,4 +1,4 @@
-package main
+package greet
 
 func Greet(name string) string{
 	ret := "Hello, " + name

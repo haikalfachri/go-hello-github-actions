@@ -2,7 +2,7 @@ package main
 
 import "testing"
 
-func TestMain(t *testing.T) {
+func TestGreet(t *testing.T) {
     expected := "Hello, Muhamad Fachri Haikal"
     input := "Muhamad Fachri Haikal"
 
